@@ -1,9 +1,9 @@
-title: SCORES
-email: benjaminory@gmail.com
+title: Explore and Listen to Cuban Cathedral Music
+email: gonzalez.aimee.e@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A lightweight public website for browsing and displaying a small musical corpus.
+  A digital library and interactive map of Cathedral music from Cuba.
 baseurl: "/AMS-Institute-Jekyll" # the subpath of your site, e.g. /blog
 url: "https://benory.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: benory
+github_username: gonzalezaimee
 
 theme: minima
