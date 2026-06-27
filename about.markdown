@@ -5,8 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-SCORES is a lightweight public website for a small musical corpus.
+EXPLORE AND LISTEN TO CUBAN CATHEDRAL MUSIC is a digital library of eighteenth-century Catholic music from Cuba and a map that allows users to explore the lives of chapel masters and cathedral musicians.
 
-The site uses Jekyll to turn metadata into browsable pages and Verovio to render encoded scores in the browser.
 
 [Browse the scores]({{ "/browse/" | relative_url }}).
