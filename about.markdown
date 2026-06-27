@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-EXPLORE AND LISTEN TO CUBAN CATHEDRAL MUSIC is a digital library of eighteenth-century Catholic music from Cuba and a map that allows users to explore the lives of chapel masters and cathedral musicians.
+EXPLORE AND LISTEN TO CUBAN CATHEDRAL MUSIC is a digital library of eighteenth-century Catholic music from Cuba and a map that allows users to explore the lives of chapel masters and cathedral musicians on the island.
 
 
 [Browse the scores]({{ "/browse/" | relative_url }}).
